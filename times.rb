@@ -1,5 +1,7 @@
 def using_times
-	#your code here
+	7.times do 
+	  puts "Wingardian Leviosa"
+	end
 end
 
 
