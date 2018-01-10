@@ -4,7 +4,7 @@ def using_times
 	end
 end
 
-
+using_times
 jewels_in_bag = 100
  
 3.times do 
